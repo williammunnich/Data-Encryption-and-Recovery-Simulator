@@ -1,5 +1,11 @@
 # <h1><b>WARNING</b></h1>
 <b>This project is meant for instructional and experimental purposes only. Use of this program without understanding how to use it could lead to permanant loss of important files. This is malware, it does encrypt your files, and unless you decrypt it properly, data will be lost.</b>
+
+# Contents
+0. Summary /TLDR
+1. Background
+2. Running and Compiling
+3. Screenshots
 # 0. Summary /TLDR
 <h3>This is a demonstration of ransomware, built with python. The python code(<a href="https://github.com/williammunnich/ransomware_example/tree/main/ransomware_python_version">available here</a>) was also compiled into exicutable files which are available for testing <a href="https://github.com/williammunnich/ransomware_example/tree/main/ransomware_executable_version/the_executable_files">here</a>. Please be careful as this will encrypt any files where the file is run and any files adjacent or sub-folders.</h3>
 
